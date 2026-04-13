@@ -67,11 +67,11 @@ I improved this by:
 
 ### Before
 
-(Add screenshot here)
+![alt text](before-1.png)
 
 ### After
 
-(Add screenshot here)
+![alt text](after.png)
 
 ---
 
