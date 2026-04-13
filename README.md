@@ -67,11 +67,11 @@ I improved this by:
 
 ### Before
 
-![Before](Screenshots/before.png)
+![Before](screenshots/before.png)
 
 ### After
 
-![After](Screenshots/after.png)
+![After](screenshots/after.png)
 
 ---
 
